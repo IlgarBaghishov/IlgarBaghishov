@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IlgarBaghishov
-- 👀 My research interests lie at the intersection of Quantum Information Science, Artificial Intelligence and Physical Chemistry
-- 🌱 I’m currently exploring connections between Quantum Chemistry Methods with Machine Learning and Quantum Computers
+- 👀 My research interests lie at the intersection of Artificial Intelligence and Physical Chemistry, primarily Machine Learning Interatomic Potentials (MLIP)
+- 🌱 My current research focuses on developing data generation and pruning algorithms, novel MLIP architectures, and automated workflows for MLIP creation in one day
 - 📫 You can contact me by email at baghishov@utexas.edu
 
 <!---
