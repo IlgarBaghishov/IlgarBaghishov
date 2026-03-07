@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IlgarBaghishov
-- 👀 My research interests lie at the intersection of Artificial Intelligence and Physical Chemistry, primarily Machine Learning Interatomic Potentials (MLIP)
-- 🌱 My current research focuses on developing data generation and pruning algorithms, novel MLIP architectures, and automated workflows for MLIP creation in one day
+- 👀 My research interests lie at the intersection of Artificial Intelligence and Science.
+- 🌱 My current research focuses on developing generative AI models for materials discovery, data generation and pruning algorithms for ML Interatomic Potential training, and design of automated workflows.
 - 📫 You can contact me by email at baghishov@utexas.edu
 
 <!---
